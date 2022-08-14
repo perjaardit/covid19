@@ -1,0 +1,1002 @@
+{
+   "Algeria":{
+      "All":{
+         "confirmed":268718,
+         "recovered":0,
+         "deaths":6878,
+         "country":"Algeria",
+         "population":41318142,
+         "sq_km_area":2381741,
+         "life_expectancy":"69.7",
+         "elevation_in_meters":800,
+         "continent":"Africa",
+         "abbreviation":"DZ",
+         "location":"Northern Africa",
+         "iso":12,
+         "capital_city":"Alger",
+         "lat":"28.0339",
+         "long":"1.6596",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Angola":{
+      "All":{
+         "confirmed":102636,
+         "recovered":0,
+         "deaths":1917,
+         "country":"Angola",
+         "population":29784193,
+         "sq_km_area":1246700,
+         "life_expectancy":"38.3",
+         "elevation_in_meters":"1,112",
+         "continent":"Africa",
+         "abbreviation":"AO",
+         "location":"Central Africa",
+         "iso":24,
+         "capital_city":"Luanda",
+         "lat":"-11.2027",
+         "long":"17.8739",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Benin":{
+      "All":{
+         "confirmed":27316,
+         "recovered":0,
+         "deaths":163,
+         "country":"Benin",
+         "population":11175692,
+         "sq_km_area":112622,
+         "life_expectancy":"50.2",
+         "elevation_in_meters":273,
+         "continent":"Africa",
+         "abbreviation":"BJ",
+         "location":"Western Africa",
+         "iso":204,
+         "capital_city":"Porto-Novo",
+         "lat":"9.3077",
+         "long":"2.3158",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Botswana":{
+      "All":{
+         "confirmed":325824,
+         "recovered":0,
+         "deaths":2774,
+         "country":"Botswana",
+         "population":2291661,
+         "sq_km_area":581730,
+         "life_expectancy":"39.3",
+         "elevation_in_meters":"1,013",
+         "continent":"Africa",
+         "abbreviation":"BW",
+         "location":"Southern Africa",
+         "iso":72,
+         "capital_city":"Gaborone",
+         "lat":"-22.3285",
+         "long":"24.6849",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Burkina Faso":{
+      "All":{
+         "confirmed":21128,
+         "recovered":0,
+         "deaths":387,
+         "country":"Burkina Faso",
+         "population":19193382,
+         "sq_km_area":274000,
+         "life_expectancy":"46.7",
+         "elevation_in_meters":297,
+         "continent":"Africa",
+         "abbreviation":"BF",
+         "location":"Western Africa",
+         "iso":854,
+         "capital_city":"Ouagadougou",
+         "lat":"12.2383",
+         "long":"-1.5616",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Burundi":{
+      "All":{
+         "confirmed":47762,
+         "recovered":0,
+         "deaths":38,
+         "country":"Burundi",
+         "population":10864245,
+         "sq_km_area":27834,
+         "life_expectancy":"46.2",
+         "elevation_in_meters":"1,504",
+         "continent":"Africa",
+         "abbreviation":"BI",
+         "location":"Eastern Africa",
+         "iso":108,
+         "capital_city":"Bujumbura",
+         "lat":"-3.3731",
+         "long":"29.9189",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Cameroon":{
+      "All":{
+         "confirmed":120215,
+         "recovered":0,
+         "deaths":1931,
+         "country":"Cameroon",
+         "population":24053727,
+         "sq_km_area":475442,
+         "life_expectancy":"54.8",
+         "elevation_in_meters":667,
+         "continent":"Africa",
+         "abbreviation":"CM",
+         "location":"Central Africa",
+         "iso":120,
+         "capital_city":"Yaound",
+         "lat":"3.848",
+         "long":"11.5021",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Central African Republic":{
+      "All":{
+         "confirmed":14781,
+         "recovered":0,
+         "deaths":113,
+         "country":"Central African Republic",
+         "population":4659080,
+         "sq_km_area":622984,
+         "life_expectancy":44,
+         "elevation_in_meters":635,
+         "continent":"Africa",
+         "abbreviation":"CF",
+         "location":"Central Africa",
+         "iso":140,
+         "capital_city":"Bangui",
+         "lat":"6.6111",
+         "long":"20.9394",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Chad":{
+      "All":{
+         "confirmed":7442,
+         "recovered":0,
+         "deaths":193,
+         "country":"Chad",
+         "population":14899994,
+         "sq_km_area":1284000,
+         "life_expectancy":"50.5",
+         "elevation_in_meters":543,
+         "continent":"Africa",
+         "abbreviation":"TD",
+         "location":"Central Africa",
+         "iso":148,
+         "capital_city":"N'Djam",
+         "lat":"15.4542",
+         "long":"18.7322",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Comoros":{
+      "All":{
+         "confirmed":8351,
+         "recovered":0,
+         "deaths":160,
+         "country":"Comoros",
+         "population":813912,
+         "sq_km_area":1862,
+         "life_expectancy":60,
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"KM",
+         "location":"Eastern Africa",
+         "iso":174,
+         "capital_city":"Moroni",
+         "lat":"-11.6455",
+         "long":"43.3333",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Cote d'Ivoire":{
+      "All":{
+         "confirmed":85966,
+         "recovered":0,
+         "deaths":815,
+         "country":"Cote d'Ivoire",
+         "population":24294750,
+         "sq_km_area":322463,
+         "life_expectancy":"45.2",
+         "elevation_in_meters":250,
+         "continent":"Africa",
+         "abbreviation":"CI",
+         "location":"Western Africa",
+         "iso":384,
+         "capital_city":"Yamoussoukro",
+         "lat":"7.54",
+         "long":"-5.5471",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Djibouti":{
+      "All":{
+         "confirmed":15690,
+         "recovered":0,
+         "deaths":189,
+         "country":"Djibouti",
+         "population":956985,
+         "sq_km_area":23200,
+         "life_expectancy":"50.8",
+         "elevation_in_meters":430,
+         "continent":"Africa",
+         "abbreviation":"DJ",
+         "location":"Eastern Africa",
+         "iso":262,
+         "capital_city":"Djibouti",
+         "lat":"11.8251",
+         "long":"42.5903",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Egypt":{
+      "All":{
+         "confirmed":515645,
+         "recovered":0,
+         "deaths":24781,
+         "country":"Egypt",
+         "population":97553151,
+         "sq_km_area":1001449,
+         "life_expectancy":"63.3",
+         "elevation_in_meters":321,
+         "continent":"Africa",
+         "abbreviation":"EG",
+         "location":"Northern Africa",
+         "iso":818,
+         "capital_city":"Cairo",
+         "lat":"26.820553",
+         "long":"30.802498",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Equatorial Guinea":{
+      "All":{
+         "confirmed":16795,
+         "recovered":0,
+         "deaths":183,
+         "country":"Equatorial Guinea",
+         "population":1267689,
+         "sq_km_area":28051,
+         "life_expectancy":"53.6",
+         "elevation_in_meters":577,
+         "continent":"Africa",
+         "abbreviation":"GQ",
+         "location":"Central Africa",
+         "iso":226,
+         "capital_city":"Malabo",
+         "lat":"1.6508",
+         "long":"10.2679",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Eritrea":{
+      "All":{
+         "confirmed":10130,
+         "recovered":0,
+         "deaths":103,
+         "country":"Eritrea",
+         "population":5068831,
+         "sq_km_area":117600,
+         "life_expectancy":"55.8",
+         "elevation_in_meters":853,
+         "continent":"Africa",
+         "abbreviation":"ER",
+         "location":"Eastern Africa",
+         "iso":232,
+         "capital_city":"Asmara",
+         "lat":"15.1794",
+         "long":"39.7823",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Ethiopia":{
+      "All":{
+         "confirmed":492667,
+         "recovered":0,
+         "deaths":7569,
+         "country":"Ethiopia",
+         "population":104957438,
+         "sq_km_area":1104300,
+         "life_expectancy":"45.2",
+         "elevation_in_meters":"1,330",
+         "continent":"Africa",
+         "abbreviation":"ET",
+         "location":"Eastern Africa",
+         "iso":231,
+         "capital_city":"Addis Abeba",
+         "lat":"9.145",
+         "long":"40.4897",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Gabon":{
+      "All":{
+         "confirmed":48592,
+         "recovered":0,
+         "deaths":306,
+         "country":"Gabon",
+         "population":2025137,
+         "sq_km_area":267668,
+         "life_expectancy":"50.1",
+         "elevation_in_meters":377,
+         "continent":"Africa",
+         "abbreviation":"GA",
+         "location":"Central Africa",
+         "iso":266,
+         "capital_city":"Libreville",
+         "lat":"-0.8037",
+         "long":"11.6094",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Gambia":{
+      "All":{
+         "confirmed":12238,
+         "recovered":0,
+         "deaths":368,
+         "country":"Gambia",
+         "population":2100568,
+         "sq_km_area":11295,
+         "life_expectancy":"53.2",
+         "elevation_in_meters":34,
+         "continent":"Africa",
+         "abbreviation":"GM",
+         "location":"Western Africa",
+         "iso":270,
+         "capital_city":"Banjul",
+         "lat":"13.4432",
+         "long":"-15.3101",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Ghana":{
+      "All":{
+         "confirmed":168350,
+         "recovered":0,
+         "deaths":1458,
+         "country":"Ghana",
+         "population":28833629,
+         "sq_km_area":238533,
+         "life_expectancy":"57.4",
+         "elevation_in_meters":190,
+         "continent":"Africa",
+         "abbreviation":"GH",
+         "location":"Western Africa",
+         "iso":288,
+         "capital_city":"Accra",
+         "lat":"7.9465",
+         "long":"-1.0232",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Guinea":{
+      "All":{
+         "confirmed":37429,
+         "recovered":0,
+         "deaths":445,
+         "country":"Guinea",
+         "population":12717176,
+         "sq_km_area":245857,
+         "life_expectancy":"45.6",
+         "elevation_in_meters":472,
+         "continent":"Africa",
+         "abbreviation":"GN",
+         "location":"Western Africa",
+         "iso":324,
+         "capital_city":"Conakry",
+         "lat":"9.9456",
+         "long":"-9.6966",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Guinea-Bissau":{
+      "All":{
+         "confirmed":8452,
+         "recovered":0,
+         "deaths":174,
+         "country":"Guinea-Bissau",
+         "population":1861283,
+         "sq_km_area":36125,
+         "life_expectancy":49,
+         "elevation_in_meters":70,
+         "continent":"Africa",
+         "abbreviation":"GW",
+         "location":"Western Africa",
+         "iso":624,
+         "capital_city":"Bissau",
+         "lat":"11.8037",
+         "long":"-15.1804",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Kenya":{
+      "All":{
+         "confirmed":337912,
+         "recovered":0,
+         "deaths":5673,
+         "country":"Kenya",
+         "population":49699862,
+         "sq_km_area":580367,
+         "life_expectancy":48,
+         "elevation_in_meters":762,
+         "continent":"Africa",
+         "abbreviation":"KE",
+         "location":"Eastern Africa",
+         "iso":404,
+         "capital_city":"Nairobi",
+         "lat":"-0.0236",
+         "long":"37.9062",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Lesotho":{
+      "All":{
+         "confirmed":34206,
+         "recovered":0,
+         "deaths":704,
+         "country":"Lesotho",
+         "population":2233339,
+         "sq_km_area":30355,
+         "life_expectancy":"50.8",
+         "elevation_in_meters":"2,161",
+         "continent":"Africa",
+         "abbreviation":"LS",
+         "location":"Southern Africa",
+         "iso":426,
+         "capital_city":"Maseru",
+         "lat":"-29.61",
+         "long":"28.2336",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Liberia":{
+      "All":{
+         "confirmed":7552,
+         "recovered":0,
+         "deaths":294,
+         "country":"Liberia",
+         "population":4731906,
+         "sq_km_area":111369,
+         "life_expectancy":51,
+         "elevation_in_meters":243,
+         "continent":"Africa",
+         "abbreviation":"LR",
+         "location":"Western Africa",
+         "iso":430,
+         "capital_city":"Monrovia",
+         "lat":"6.428055",
+         "long":"-9.429499",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Libya":{
+      "All":{
+         "confirmed":505956,
+         "recovered":0,
+         "deaths":6434,
+         "country":"Libya",
+         "population":5605000,
+         "sq_km_area":1759540,
+         "life_expectancy":"75.5",
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"LY",
+         "location":"Northern Africa",
+         "iso":null,
+         "capital_city":"Tripoli",
+         "lat":"26.3351",
+         "long":"17.228331",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Madagascar":{
+      "All":{
+         "confirmed":66557,
+         "recovered":0,
+         "deaths":1409,
+         "country":"Madagascar",
+         "population":25570895,
+         "sq_km_area":587041,
+         "life_expectancy":55,
+         "elevation_in_meters":615,
+         "continent":"Africa",
+         "abbreviation":"MG",
+         "location":"Eastern Africa",
+         "iso":450,
+         "capital_city":"Antananarivo",
+         "lat":"-18.766947",
+         "long":"46.869107",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Malawi":{
+      "All":{
+         "confirmed":87691,
+         "recovered":0,
+         "deaths":2672,
+         "country":"Malawi",
+         "population":18622104,
+         "sq_km_area":118484,
+         "life_expectancy":"37.6",
+         "elevation_in_meters":779,
+         "continent":"Africa",
+         "abbreviation":"MW",
+         "location":"Eastern Africa",
+         "iso":454,
+         "capital_city":"Lilongwe",
+         "lat":"-13.2543",
+         "long":"34.3015",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Mali":{
+      "All":{
+         "confirmed":31240,
+         "recovered":0,
+         "deaths":739,
+         "country":"Mali",
+         "population":18541980,
+         "sq_km_area":1240192,
+         "life_expectancy":"46.7",
+         "elevation_in_meters":343,
+         "continent":"Africa",
+         "abbreviation":"ML",
+         "location":"Western Africa",
+         "iso":466,
+         "capital_city":"Bamako",
+         "lat":"17.570692",
+         "long":"-3.996166",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Mauritania":{
+      "All":{
+         "confirmed":62696,
+         "recovered":0,
+         "deaths":992,
+         "country":"Mauritania",
+         "population":4420184,
+         "sq_km_area":1025520,
+         "life_expectancy":"50.8",
+         "elevation_in_meters":276,
+         "continent":"Africa",
+         "abbreviation":"MR",
+         "location":"Western Africa",
+         "iso":478,
+         "capital_city":"Nouakchott",
+         "lat":"21.0079",
+         "long":"-10.9408",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Mauritius":{
+      "All":{
+         "confirmed":248720,
+         "recovered":0,
+         "deaths":1015,
+         "country":"Mauritius",
+         "population":1265138,
+         "sq_km_area":2040,
+         "life_expectancy":71,
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"MU",
+         "location":"Eastern Africa",
+         "iso":480,
+         "capital_city":"Port-Louis",
+         "lat":"-20.348404",
+         "long":"57.552152",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Morocco":{
+      "All":{
+         "confirmed":1263164,
+         "recovered":0,
+         "deaths":16264,
+         "country":"Morocco",
+         "population":35739580,
+         "sq_km_area":446550,
+         "life_expectancy":"69.1",
+         "elevation_in_meters":909,
+         "continent":"Africa",
+         "abbreviation":"MA",
+         "location":"Northern Africa",
+         "iso":504,
+         "capital_city":"Rabat",
+         "lat":"31.7917",
+         "long":"-7.0926",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Mozambique":{
+      "All":{
+         "confirmed":229836,
+         "recovered":0,
+         "deaths":2218,
+         "country":"Mozambique",
+         "population":29668834,
+         "sq_km_area":801590,
+         "life_expectancy":"37.5",
+         "elevation_in_meters":345,
+         "continent":"Africa",
+         "abbreviation":"MZ",
+         "location":"Eastern Africa",
+         "iso":508,
+         "capital_city":"Maputo",
+         "lat":"-18.665695",
+         "long":"35.529562",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Namibia":{
+      "All":{
+         "confirmed":169253,
+         "recovered":0,
+         "deaths":4073,
+         "country":"Namibia",
+         "population":2533794,
+         "sq_km_area":824292,
+         "life_expectancy":"42.5",
+         "elevation_in_meters":"1,141",
+         "continent":"Africa",
+         "abbreviation":"NA",
+         "location":"Southern Africa",
+         "iso":516,
+         "capital_city":"Windhoek",
+         "lat":"-22.9576",
+         "long":"18.4904",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Niger":{
+      "All":{
+         "confirmed":9132,
+         "recovered":0,
+         "deaths":311,
+         "country":"Niger",
+         "population":21477348,
+         "sq_km_area":1267000,
+         "life_expectancy":"41.3",
+         "elevation_in_meters":474,
+         "continent":"Africa",
+         "abbreviation":"NE",
+         "location":"Western Africa",
+         "iso":562,
+         "capital_city":"Niamey",
+         "lat":"17.607789",
+         "long":"8.081666",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Nigeria":{
+      "All":{
+         "confirmed":262402,
+         "recovered":0,
+         "deaths":3147,
+         "country":"Nigeria",
+         "population":190886311,
+         "sq_km_area":923768,
+         "life_expectancy":"51.6",
+         "elevation_in_meters":380,
+         "continent":"Africa",
+         "abbreviation":"NG",
+         "location":"Western Africa",
+         "iso":566,
+         "capital_city":"Abuja",
+         "lat":"9.082",
+         "long":"8.6753",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Rwanda":{
+      "All":{
+         "confirmed":132336,
+         "recovered":0,
+         "deaths":1466,
+         "country":"Rwanda",
+         "population":12208407,
+         "sq_km_area":26338,
+         "life_expectancy":"39.3",
+         "elevation_in_meters":"1,598",
+         "continent":"Africa",
+         "abbreviation":"RW",
+         "location":"Eastern Africa",
+         "iso":646,
+         "capital_city":"Kigali",
+         "lat":"-1.9403",
+         "long":"29.8739",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Sao Tome and Principe":{
+      "All":{
+         "confirmed":6120,
+         "recovered":0,
+         "deaths":76,
+         "country":"Sao Tome and Principe",
+         "population":204327,
+         "sq_km_area":964,
+         "life_expectancy":"65.3",
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"ST",
+         "location":"Central Africa",
+         "iso":678,
+         "capital_city":"S",
+         "lat":"0.1864",
+         "long":"6.6131",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Senegal":{
+      "All":{
+         "confirmed":87723,
+         "recovered":0,
+         "deaths":1968,
+         "country":"Senegal",
+         "population":15850567,
+         "sq_km_area":196722,
+         "life_expectancy":"62.2",
+         "elevation_in_meters":69,
+         "continent":"Africa",
+         "abbreviation":"SN",
+         "location":"Western Africa",
+         "iso":686,
+         "capital_city":"Dakar",
+         "lat":"14.4974",
+         "long":"-14.4524",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Seychelles":{
+      "All":{
+         "confirmed":45692,
+         "recovered":0,
+         "deaths":168,
+         "country":"Seychelles",
+         "population":94737,
+         "sq_km_area":455,
+         "life_expectancy":"70.4",
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"SC",
+         "location":"Eastern Africa",
+         "iso":690,
+         "capital_city":"Victoria",
+         "lat":"-4.6796",
+         "long":"55.492",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Sierra Leone":{
+      "All":{
+         "confirmed":7740,
+         "recovered":0,
+         "deaths":125,
+         "country":"Sierra Leone",
+         "population":7557212,
+         "sq_km_area":71740,
+         "life_expectancy":"45.3",
+         "elevation_in_meters":279,
+         "continent":"Africa",
+         "abbreviation":"SL",
+         "location":"Western Africa",
+         "iso":694,
+         "capital_city":"Freetown",
+         "lat":"8.460555",
+         "long":"-11.779889",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Somalia":{
+      "All":{
+         "confirmed":27020,
+         "recovered":0,
+         "deaths":1361,
+         "country":"Somalia",
+         "population":14742523,
+         "sq_km_area":637657,
+         "life_expectancy":"46.2",
+         "elevation_in_meters":410,
+         "continent":"Africa",
+         "abbreviation":"SO",
+         "location":"Eastern Africa",
+         "iso":706,
+         "capital_city":"Mogadishu",
+         "lat":"5.152149",
+         "long":"46.199616",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "South Africa":{
+      "All":{
+         "confirmed":4004555,
+         "recovered":0,
+         "deaths":101982,
+         "country":"South Africa",
+         "population":56717156,
+         "sq_km_area":1221037,
+         "life_expectancy":"51.1",
+         "elevation_in_meters":"1,034",
+         "continent":"Africa",
+         "abbreviation":"ZA",
+         "location":"Southern Africa",
+         "iso":710,
+         "capital_city":"Pretoria",
+         "lat":"-30.5595",
+         "long":"22.9375",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "South Sudan":{
+      "All":{
+         "confirmed":17823,
+         "recovered":0,
+         "deaths":138,
+         "country":"South Sudan",
+         "population":12575714,
+         "sq_km_area":619745,
+         "life_expectancy":null,
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"SS",
+         "location":"Eastern Africa",
+         "iso":728,
+         "capital_city":"Juba",
+         "lat":"6.877",
+         "long":"31.307",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Sudan":{
+      "All":{
+         "confirmed":63128,
+         "recovered":0,
+         "deaths":4960,
+         "country":"Sudan",
+         "population":40533330,
+         "sq_km_area":1886068,
+         "life_expectancy":"56.6",
+         "elevation_in_meters":568,
+         "continent":"Africa",
+         "abbreviation":"SD",
+         "location":"Northern Africa",
+         "iso":729,
+         "capital_city":"Khartum",
+         "lat":"12.8628",
+         "long":"30.2176",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Tanzania":{
+      "All":{
+         "confirmed":38205,
+         "recovered":0,
+         "deaths":841,
+         "country":"Tanzania",
+         "population":57310019,
+         "sq_km_area":883749,
+         "life_expectancy":"52.3",
+         "elevation_in_meters":"1,018",
+         "continent":"Africa",
+         "abbreviation":"TZ",
+         "location":"Eastern Africa",
+         "iso":834,
+         "capital_city":"Dodoma",
+         "lat":"-6.369028",
+         "long":"34.888822",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Togo":{
+      "All":{
+         "confirmed":38236,
+         "recovered":0,
+         "deaths":281,
+         "country":"Togo",
+         "population":7797694,
+         "sq_km_area":56785,
+         "life_expectancy":"54.7",
+         "elevation_in_meters":236,
+         "continent":"Africa",
+         "abbreviation":"TG",
+         "location":"Western Africa",
+         "iso":768,
+         "capital_city":"Lom",
+         "lat":"8.6195",
+         "long":"0.8248",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Tunisia":{
+      "All":{
+         "confirmed":1139241,
+         "recovered":0,
+         "deaths":29153,
+         "country":"Tunisia",
+         "population":11532127,
+         "sq_km_area":163610,
+         "life_expectancy":"73.7",
+         "elevation_in_meters":246,
+         "continent":"Africa",
+         "abbreviation":"TN",
+         "location":"Northern Africa",
+         "iso":788,
+         "capital_city":"Tunis",
+         "lat":"33.886917",
+         "long":"9.537499",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Uganda":{
+      "All":{
+         "confirmed":169396,
+         "recovered":0,
+         "deaths":3628,
+         "country":"Uganda",
+         "population":42862958,
+         "sq_km_area":241038,
+         "life_expectancy":"42.9",
+         "elevation_in_meters":null,
+         "continent":"Africa",
+         "abbreviation":"UG",
+         "location":"Eastern Africa",
+         "iso":800,
+         "capital_city":"Kampala",
+         "lat":"1.373333",
+         "long":"32.290275",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Zambia":{
+      "All":{
+         "confirmed":331568,
+         "recovered":0,
+         "deaths":4016,
+         "country":"Zambia",
+         "population":17094130,
+         "sq_km_area":752618,
+         "life_expectancy":"37.2",
+         "elevation_in_meters":"1,138",
+         "continent":"Africa",
+         "abbreviation":"ZM",
+         "location":"Eastern Africa",
+         "iso":894,
+         "capital_city":"Lusaka",
+         "lat":"-13.133897",
+         "long":"27.849332",
+         "updated":"2022-08-12 04:20:54"
+      }
+   },
+   "Zimbabwe":{
+      "All":{
+         "confirmed":256513,
+         "recovered":0,
+         "deaths":5587,
+         "country":"Zimbabwe",
+         "population":16529904,
+         "sq_km_area":390757,
+         "life_expectancy":"37.8",
+         "elevation_in_meters":961,
+         "continent":"Africa",
+         "abbreviation":"ZW",
+         "location":"Eastern Africa",
+         "iso":716,
+         "capital_city":"Harare",
+         "lat":"-19.015438",
+         "long":"29.154857",
+         "updated":"2022-08-12 04:20:54"
+      }
+   }
+}
